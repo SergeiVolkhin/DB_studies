@@ -1,4 +1,5 @@
 # Домашнее задание 2. Основные операторы PostgreSQL
+[![Database](https://img.shields.io/badge/database-PostgreSQL-blue.svg)](https://www.postgresql.org/)
 
 В данном репозитории представлено решение задач по анализу данных интернет-магазина (Shop DB).
 
